@@ -1,1 +1,6 @@
-ANUJ WAS HERE ON 21/06/2025
+a=10;
+a is stored in stack memory, it is called reference variable as it just contains the reference address of a in the heap memory. 
+where as 10 is called the object and it is stored in heap memory .
+
+a = reference variable = stack memory
+10 = object = heap memory
